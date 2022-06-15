@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables.net-rowgroup@1.2.0",
+      "destination": "wwwroot/datatables.net-rowgroup/"
+    }
+  ]
+}
